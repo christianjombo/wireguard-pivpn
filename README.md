@@ -2,7 +2,7 @@
 This script will install and configure WireGuard + PiVPN for 50 Clients.
 Steps it will take are given below.
 
-✅ Install WireGuard & PiVPN
+✅ Install WireGuard & PiVPN \n
 ✅ Configure Firewall & IP Forwarding
 ✅ Create 50 VPN Clients (colleague1 → colleague50)
 ✅ Assign Static IPs (10.6.0.2 → 10.6.0.51)
